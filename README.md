@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, MySQL, Hibernate, Maven, Spring, Springboot**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ankitchaurasia.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ankitchaurasia.netlify.app/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Project**
 
