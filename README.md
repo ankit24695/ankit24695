@@ -35,6 +35,22 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+  <br/>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/ankit24695/github-readme-stats"><img alt="Ankit Chaurasia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankit24695&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/ankit24695/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Chaurasia streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit24695&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  <br/>
+  <br/>
+
+<a href="https://github.com/ankit24695/github-readme-activity-graph"><img alt="Ankit Chaurasia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit24695&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <!---
 ankit24695/ankit24695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
